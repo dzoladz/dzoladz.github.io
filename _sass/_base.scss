@@ -175,11 +175,12 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-title {
-    color: var(--global-text-color);
+    color: $text-dark-color;
   }
 
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    color: $text-dark-color;
   }
 }
 
@@ -401,7 +402,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       img {
@@ -593,6 +594,10 @@ footer.sticky-bottom {
     list-style: none;
     padding-top: 2rem;
     padding-bottom: 2rem;
+
+    .card-img {
+      height: 100% !important;
+    }
 
     .post-meta {
       color: var(--global-text-color-light);
