@@ -3,12 +3,18 @@ layout: page
 title: "Lingo"
 description: "Mobile Application Developed for ILEADUSA-OHIO 2013"
 img: assets/img/projects/lingo/lingo-cover.png
-importance: 3
+importance: 4
 category: any
 giscus_comments: false
 related_publications: false
 redirect:
 ---
+
+<hr/>
+
+Library Hi Tech News - [Know the Lingo: How ILEAD Ohio Influenced Library Collaboration and Discovery for Patrons](/assets/pdf/know-the-lingo.pdf)
+
+<hr/>
 
 Ohio’s first ILEAD USA was a multi-state immersive continuing education program that develops library leaders through projects based on community needs via the application of participatory technology tools. Ohio participants joined others from Colorado, Illinois, Iowa, and Utah in this national initiative. ILEAD USA was funded by a Laura Bush 21st Century Librarian Program grant to the State Library of Illinois from the Institute of Museum and Library Services.
 

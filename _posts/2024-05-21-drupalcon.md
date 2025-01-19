@@ -11,7 +11,7 @@ disqus_comments: false
 related_posts: false
 redirect:
 giscus_comments: false
-pretty_table: false
+pretty_table: true
 citation: false
 ---
 
@@ -48,12 +48,11 @@ The conference was held at the Oregon Convention Center from May 6-9, 2024; requ
 through the John Glenn Columbus International Airport (CMH), Dallas Love Field (DAL), Portland 
 International Airport (PDX), and Denver International Airport (DEN).
 
-{{< figure 
-    src="flight-map.png"
-    title="4,683 miles travelled for DrupalCon 2024"
-    alt="map of the united states indicating the geographic location of traveled airports"
-    attr="flightmapper.io" 
-    attrlink="https://flightmapper.io/maps/dzoladz" >}}
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/flight-map.png" title="4,683 miles travelled for DrupalCon 2024" caption="4,683 miles travelled for DrupalCon 2024" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <div style="height: 0.5em; display: block;"></div>
 <hr/>
@@ -120,12 +119,12 @@ The Project Browser session was a deep dive into the new features of the Drupal
 builders to find modules. Once the modules is installed, the project browser lives inside the Drupal site itself and
 provides a marketplace-like experience for modules.
 
-{{< figure 
-    src="project_browser.png"
-    title="Project Browser design sets"
-    alt="current figma designs for the minimum viable product"
-    attr="Project Browser Team" 
-    attrlink="https://www.figma.com/design/1Z8xrcP2zgnO6BXlu9ZeQ5/Project-browser?node-id=964-4805" >}}
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/project_browser.png" title="Project Browser design sets" caption="Project Browser design sets" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption"><a href="https://www.figma.com/design/1Z8xrcP2zgnO6BXlu9ZeQ5/Project-browser?node-id=964-4805">[figma]</a></div>
 
 <div style="height: 0.5em; display: block;"></div>
 <hr/>
@@ -141,12 +140,13 @@ McGill University gave a presentation on how they manage, test, and deploy 1,000
 Gitlab CI. The best way to understand the gist of this presentation is to peruse the 
 [presentation slides](mcgill_ansible_gitlab.pdf).
 
-{{< figure 
-    src="mcgill.png"
-    title="Screenshot of Thomas Fline's Slides"
-    caption="Screenshot of Thomas Fline's Slides"
-    link="mcgill_ansible_gitlab.pdf"
-    attr="Thomas Fline">}}
+<div class="row justify-content-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/blog/mcgill.png" title="Screenshot of Thomas Fline's Slides" caption="Screenshot of Thomas Fline's Slides" class="img-fluid rounded z-depth-1" %}
+<div class="caption"><a href="assets/pdf/mcgill-ansible-gitlab.pdf">[slides]</a></div>
+    </div>
+</div>
+
 
 <div style="height: 0.5em; display: block;"></div>
 
