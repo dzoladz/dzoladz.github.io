@@ -237,6 +237,16 @@ ninja.data = [{
           description: "Mobile Application Developed for ILEADUSA-OHIO 2013",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lingo/";
+            },},{id: "projects-speculative-design-amp-libraries",
+          title: 'Speculative Design &amp;amp; Libraries',
+          description: "Where traditional design attempts to solve problems, speculative design attempts to open our minds to new ways of thinking and being.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tedsig_2020/";
+            },},{id: "projects-speculative-library-futures",
+          title: 'Speculative Library Futures',
+          description: "A yearlong exploration of speculative design and libraries by TEDSIG",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tedsig_futures/";
             },},{id: "projects-augmented-reality-at-columbus-state-library-photo-essay",
           title: 'Augmented Reality at Columbus State Library [Photo Essay]',
           description: "Augmented Reality Exhibit at Columbus State Community College Library",
