@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Publications by categories in reversed chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
         },{id: "post-blank-topographies",
       
         title: "Blank Topographies",
