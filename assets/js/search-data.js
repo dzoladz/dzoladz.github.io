@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-blank-topographies",
+        },{id: "post-apps-i-39-m-taking-into-2025",
+      
+        title: "Apps I&#39;m Taking into 2025",
+      
+      description: "Updating foundational components for the new year",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/apps/";
+        
+      },
+    },{id: "post-blank-topographies",
       
         title: "Blank Topographies",
       
