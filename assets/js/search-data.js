@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-apps-i-39-m-taking-into-2025",
+        },{id: "post-drupalcon-2025",
+      
+        title: "DrupalCon 2025",
+      
+      description: "Drupal CMS strikes back at the mid-market",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/drupalcon2025/";
+        
+      },
+    },{id: "post-apps-i-39-m-taking-into-2025",
       
         title: "Apps I&#39;m Taking into 2025",
       
