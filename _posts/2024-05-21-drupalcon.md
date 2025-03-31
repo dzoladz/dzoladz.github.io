@@ -3,8 +3,8 @@ layout: post
 title: "DrupalCon 2024: Portland, Oregon"
 date: 2023-12-23 16:40:16
 description: "First experiences at DrupalCon 2024"
-tags: DrupalCon PHP
-categories: conferences
+tags: drupal
+categories: conferences applications
 thumbnail: assets/img/blog/2024drupalcon-cover.jpg
 featured: false
 disqus_comments: false
