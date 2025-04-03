@@ -5,7 +5,7 @@ date: 2025-03-27 16:40:16
 description: "Ryoji Ikeda at the High Museum of Art in Atlanta"
 tags: art
 categories:
-thumbnail: assets/img/blog/ryoji-ikeda/ryoji-ikeda-cover.jpg
+thumbnail: assets/img/blog/ryoji-ikeda/ikeda.jpg
 featured: false
 disqus_comments: false
 related_posts: false
@@ -13,7 +13,7 @@ redirect:
 giscus_comments: false
 pretty_table: true
 citation: false
-published: true
+published: false
 ---
 
 > WARNING: This video may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.

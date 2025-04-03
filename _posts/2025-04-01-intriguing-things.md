@@ -35,4 +35,5 @@ inspiring, motivating, energizing,
 
 # Guitars
 
-- 
+- GameChanger|Audio, optical spring reverb pedal [https://gamechangeraudio.com/light-pedal/](https://gamechangeraudio.com/light-pedal/)
+- GameChanger|Audio, sustenudo pedal [https://gamechangeraudio.com/pluspedal/](https://gamechangeraudio.com/pluspedal/)
