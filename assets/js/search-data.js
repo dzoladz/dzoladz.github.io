@@ -30,20 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-dataverse",
+        },{id: "post-drupalcon-2025-atlanta-georgia",
       
-        title: "Dataverse",
-      
-      description: "Ryoji Ikeda at the High Museum of Art in Atlanta",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/ryoji-ikeda/";
-        
-      },
-    },{id: "post-drupalcon-2025",
-      
-        title: "DrupalCon 2025",
+        title: "DrupalCon 2025: Atlanta, Georgia",
       
       description: "Drupal CMS strikes back at the mid-market",
       section: "Posts",
