@@ -13,7 +13,7 @@ redirect:
 giscus_comments: false
 pretty_table: true
 citation: false
-published: true
+published: false
 ---
 
 > WARNING: These videos may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised.
