@@ -26,7 +26,7 @@ Over 15 years of experience providing technology solutions to libraries and cons
 the Library Systems Analyst at [OhioNet](https://www.ohionet.org/); proudly serving members of [CLEVNET](https://www.clevnet.org/), [OhioLINK](https://www.ohiolink.edu/), 
 [Consortium of Ohio Libraries (COOL)](http://info.cool-cat.org/), [Ohio Private Academic Libraries (OPAL)](https://opal-libraries.org/),
 [Serving Every Ohioan (SEO)](https://servingeveryohioan.org/), [Private Academic Library Network of Indiana (PALNI)](https://www.palni.org/), [Central Library Consortium (CLC)](https://clcohio.org/),
-and the [Cleveland Clinic](https://library.ccf.org/).
+and the [Cleveland Clinic](https://my.clevelandclinic.org/).
 
 Lover of the Carvin SC-90 from the late 1990s with C22 humbuckers and Tune-O-Matic bridge, Godin's xtSA guitars with 
 magnetic and piezo pickups for hexaphonic output, Bob Bradshaw's Custom Audio Electronics MIDI switching systems, and 
