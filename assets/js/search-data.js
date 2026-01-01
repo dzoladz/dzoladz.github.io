@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-drupalcon-2025-atlanta-georgia",
+        },{id: "post-apps-i-39-m-taking-into-2026",
+      
+        title: "Apps I&#39;m Taking into 2026",
+      
+      description: "The coming year will bring a focus on the technical intersection of web development and digital cultural heritage.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/apps/";
+        
+      },
+    },{id: "post-drupalcon-2025-atlanta-georgia",
       
         title: "DrupalCon 2025: Atlanta, Georgia",
       
