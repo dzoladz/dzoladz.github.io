@@ -29,5 +29,5 @@ the Library Systems Analyst at [OhioNet](https://www.ohionet.org/); proudly serv
 and the [Cleveland Clinic](https://my.clevelandclinic.org/).
 
 Lover of the Carvin SC-90 from the late 1990s with C22 humbuckers and Tune-O-Matic bridge, Godin's xtSA guitars with 
-magnetic and piezo pickups for hexaphonic output, Bob Bradshaw's Custom Audio Electronics MIDI switching systems, and 
-audio synthesis and manipulation tools like Pure Data and SuperCollider. 
+magnetic and piezo transducers for hexaphonic output, Digital Music Corp's Ground Control with CGX switchable loop
+module, and audio synthesis tools like Pure Data are explored under the name of [Guitar Solo™](https://guitar.derekzoladz.com/).
