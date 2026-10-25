@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-apps-i-39-m-taking-into-2026",
+        },{id: "post-legendary-services-of-oplin",
+      
+        title: "Legendary Services of OPLIN",
+      
+      description: "Booth #301 at the Ohio Library Council (OLC) Conference at Kalahari Resort in Sandusky, Ohio.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/olc/";
+        
+      },
+    },{id: "post-apps-i-39-m-taking-into-2026",
       
         title: "Apps I&#39;m Taking into 2026",
       
